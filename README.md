@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Yassine</h1>
-<h3 align="center">A passionate Software Engineer from Lebanon</h3>
+<h3 align="center">A Passionate Software Engineer from Lebanon</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
